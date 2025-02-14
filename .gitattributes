@@ -1,1 +1,2 @@
 auth-service/frontend1/node_modules/@next/swc-darwin-arm64/next-swc.darwin-arm64.node filter=lfs diff=lfs merge=lfs -text
+*.node filter=lfs diff=lfs merge=lfs -text
